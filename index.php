@@ -30,9 +30,9 @@
                 <a href="" class="brand-logo">Test Taoci</a>
                 <a href="#" data-target="mobile-demo" class="sidenav-trigger "><i class="material-icons">menu</i></a>
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
-                    <li><a href="">About</a></li>
-                    <li><a href="">Produk Teh</a></li>
-                    <li><a href="">Produk Benih</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#produk-teh">Produk Teh</a></li>
+                    <li><a href="#produk-benih">Produk Benih</a></li>
                 </ul>
             </div>
         </div>
@@ -41,9 +41,9 @@
 
     <!-- navbar hp -->
     <ul class="sidenav" id="mobile-demo">
-        <li><a href="">About</a></li>
-        <li><a href="">Produk Teh</a></li>
-        <li><a href="">Produk Benih</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#produk-teh">Produk Teh</a></li>
+        <li><a href="#produk-benih">Produk Benih</a></li>
     </ul>
     <!-- akhir navbar hp -->
 
